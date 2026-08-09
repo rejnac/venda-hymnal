@@ -1,7 +1,7 @@
 # Ngosha YaDzingosha
 
 
-The repository contains all the 306 Ngosha YaDzingosha hymnal lyrics in Venda language also called Akan, Twi-Fante, or Tshi.
+The repository contains all the 306 Ngosha YaDzingosha hymnal lyrics in Venda language also called Tshivenda or Luvenda.
 
 **Disclosure:** The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
